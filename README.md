@@ -1,6 +1,6 @@
 <h1 align="center">Kalpan</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Developer;Website+Developer" width="auto" height="35"/>
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">I am an enthusiastic programmer with a strong passion for technology and innovation. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights. My interests include:</p>
@@ -15,8 +15,6 @@
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="65" height="65"/><br><b>C (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="65" height="65"/><br><b>C++ (Language)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="65" height="65"/><br><b>Java (Language)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="65" height="65"/><br><b>Python (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65" height="65"/><br><b>HTML (Markup)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="65" height="65"/><br><b>CSS (Stylesheet)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="65" height="65"/><br><b>JavaScript (Language)</b></td>
@@ -28,11 +26,20 @@
 <br>
 <h2 align="center">📕 Featured repositories:</h2>
 <div align="center">
-<a href="https://github.com/Kalpan2007/c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=c&theme=radical"></a>
-<a href="https://github.com/Kalpan2007/cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=cpp&theme=radical"></a>
-<a href="https://github.com/Kalpan2007/java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=java&theme=radical"></a>
-<a href="https://github.com/Kalpan2007/python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=python&theme=radical"></a>
-<a href="https://github.com/Kalpan2007/javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=javascript&theme=radical"></a>
+<a href="https://github.com/Kalpan2007/React-Api-Project">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=React-Api-Project&theme=radical">
+</a>
+<p><b>React-Api-Project:</b> A web application built with React that fetches and displays data from public APIs. Demonstrates use of React Hooks and API integration techniques.</p>
+
+<a href="https://github.com/Kalpan2007/yt-react">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=yt-react&theme=radical">
+</a>
+<p><b>yt-react:</b> A YouTube clone built using React. The project replicates core YouTube functionalities such as video search, display, and responsive design.</p>
+
+<a href="https://github.com/Kalpan2007/Pass-Gen-React">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Pass-Gen-React&theme=radical">
+</a>
+<p><b>Pass-Gen-React:</b> A password generator application built with React. Allows users to generate secure passwords with customizable options for length, symbols, and numbers.</p>
 </div>
 <br>
 <h2 align="center">📊 My Github stats:</h2>
@@ -49,8 +56,7 @@
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:kalpankaneriya@gmail.com" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
   </a>
 </p>
-<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
