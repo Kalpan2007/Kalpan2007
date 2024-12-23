@@ -1,14 +1,11 @@
 <h1 align="center">Kalpan</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F260&size=32&center=true&vCenter=true&width=500&lines=Software+Developer;Website+Developer" width="auto" height="40"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F260&size=28&center=true&vCenter=true&width=500&duration=2000&pause=1000&lines=Full-Stack+Development" width="auto" height="35"/>
 </p>
 
 <h2 align="center">👨🏻‍💻 About Me:</h2>
 <p align="justify">
    I am a passionate programmer driven by curiosity and innovation. I specialize in building web applications and love exploring full-stack development. I enjoy solving complex problems and continuously upgrading my skills through challenging projects.  
-</p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F260&size=28&center=true&vCenter=true&width=500&duration=2000&pause=1000&lines=Full-Stack+Development;Artificial+Intelligence;Machine+Learning" width="auto" height="35"/>
 </p>
 
 <p align="center">🔭 Currently working on -> Web Development Projects</p>
@@ -66,7 +63,7 @@
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
    </a>
    &nbsp;&nbsp;&nbsp;
-   <a href="https://linkedin.com/in/Kalpan2007">
+   <a href="https://www.linkedin.com/in/3kz">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" height="50" width="50" />
    </a>
 </p>
