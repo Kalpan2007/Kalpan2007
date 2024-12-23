@@ -1,52 +1,61 @@
-<h1 align="center">Kalpan - Full Stack Developer Terminal</h1>
+<h1 align="center">Kalpan</h1>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F260&size=28&center=true&vCenter=true&width=500&duration=2000&pause=1000&lines=Full-Stack+Development" width="auto" height="35"/>
+</p>
 
+<h2 align="center">👨🏻‍💻 About Me:</h2>
+<p align="justify">
+   I am a passionate programmer driven by curiosity and innovation. I specialize in building web applications and love exploring full-stack development. I enjoy solving complex problems and continuously upgrading my skills through challenging projects.  
+</p>
+
+<p align="center">🔭 Currently working on -> Web Development Projects</p>
+<p align="center">📚 Currently learning -> MERN Stack and AI</p>
+<br>
+
+<h2 align="center">💻 My Tech Stack:</h2>
+<table align="center">
+<tr>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="60" height="60"/><br><b>C</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="60" height="60"/><br><b>C++</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="60" height="60"/><br><b>HTML</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="60" height="60"/><br><b>CSS</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="60" height="60"/><br><b>JavaScript</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="60" height="60"/><br><b>React JS</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="60" height="60"/><br><b>Node JS</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="60" height="60"/><br><b>MongoDB</b></td>
+</tr>
+</table>
+<br>
+
+<h2 align="center">📕 Featured Repositories:</h2>
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=16F7C6&center=true&vCenter=true&width=500&height=45&lines=Welcome+to+Kalpan's+Terminal...;Type+%22skills%22+to+see+tech+stack...;Type+%22projects%22+to+view+my+work...">
-</div>
+   <a href="https://github.com/Kalpan2007/React-Api-Project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=React-Api-Project&theme=gruvbox">
+   </a>
+   <p><b>React-Api-Project:</b> Fetches and displays data from public APIs, utilizing React hooks and dynamic rendering.</p>
 
-<!-- Terminal Design -->
+   <a href="https://github.com/Kalpan2007/yt-react">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=yt-react&theme=gruvbox">
+   </a>
+   <p><b>yt-react:</b> A YouTube clone in React with video search and responsive layout.</p>
+
+   <a href="https://github.com/Kalpan2007/Pass-Gen-React">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Pass-Gen-React&theme=gruvbox">
+   </a>
+   <p><b>Pass-Gen-React:</b> Password generator app in React with customizable options for secure passwords.</p>
+</div>
+<br>
+
+<h2 align="center">📊 My Github Stats:</h2>
 <div align="center">
-   <pre style="background-color:black;color:green;padding:20px;border-radius:10px;width:80%;text-align:left;">
-   <span id="terminal-output"></span>
-   <br>
-   <span style="color:lightblue;">$</span> <span id="terminal-input">|</span>
-   </pre>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalpan2007&theme=gruvbox&row=2&column=4" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalpan2007&show_icons=true&theme=gruvbox&hide_border=true" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalpan2007&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpan2007&layout=compact&theme=gruvbox" />
 </div>
-
-<script>
-   const commands = [
-      { cmd: "skills", response: "HTML5, CSS3, JavaScript, React, Node.js, MongoDB, C, C++" },
-      { cmd: "projects", response: "1. React API Project\n2. YouTube Clone (yt-react)\n3. Pass-Gen-React (Password Generator)" },
-      { cmd: "contact", response: "Email: kalpankaneriya@gmail.com\nLinkedIn: Kalpan2007" },
-      { cmd: "clear", response: "" },
-      { cmd: "about", response: "I'm Kalpan, a Full-Stack Developer learning and growing in web technologies." }
-   ];
-
-   let terminalOutput = document.getElementById("terminal-output");
-   let terminalInput = document.getElementById("terminal-input");
-   let index = 0;
-
-   function typeText(text, delay) {
-      let i = 0;
-      terminalInput.textContent = "";
-      let interval = setInterval(() => {
-         terminalInput.textContent += text[i];
-         i++;
-         if (i === text.length) clearInterval(interval);
-      }, delay);
-   }
-
-   function simulateTerminal() {
-      let interval = setInterval(() => {
-         if (index >= commands.length) index = 0;
-         let { cmd, response } = commands[index];
-         terminalOutput.innerHTML += `<br><span style='color:lightblue;'>$ ${cmd}</span><br>${response}`;
-         index++;
-      }, 5000);  // Changes every 5 seconds
-   }
-
-   simulateTerminal();
-</script>
+<br>
 
 <h2 align="center">🔗 Connect with Me:</h2>
 <p align="center">
@@ -54,7 +63,7 @@
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
    </a>
    &nbsp;&nbsp;&nbsp;
-   <a href="https://linkedin.com/in/Kalpan2007">
+   <a href="https://www.linkedin.com/in/3kz">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" height="50" width="50" />
    </a>
 </p>
