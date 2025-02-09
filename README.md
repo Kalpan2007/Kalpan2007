@@ -3,12 +3,12 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F260&size=28&center=true&vCenter=true&width=500&duration=2000&pause=1000&lines=Full-Stack+Developer" width="auto" height="35"/>
 </p>
 
-<h2 align="center">👨🏻‍💻 About Me:</h2>
+<h2 align="center">👨‍💻 About Me:</h2>
 <p align="justify">
    I am a passionate programmer driven by curiosity and innovation. I specialize in building web applications and love exploring full-stack development. I enjoy solving complex problems and continuously upgrading my skills through challenging projects.  
 </p>
 
-<p align="center">🔭 Currently working on -> Web Development Projects</p>
+<p align="center">💯 Currently working on -> Web Development Projects</p>
 <p align="center">📚 Currently learning -> MERN Stack and AI</p>
 <br>
 
@@ -23,11 +23,13 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="60" height="60"/><br><b>React JS</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="60" height="60"/><br><b>Node JS</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="60" height="60"/><br><b>MongoDB</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/><br><b>Tailwind CSS</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="60" height="60"/><br><b>Express.js</b></td>
 </tr>
 </table>
 <br>
 
-<h2 align="center">📕 Featured Repositories:</h2>
+<h2 align="center">📚 Featured Repositories:</h2>
 <div align="center">
    <a href="https://github.com/Kalpan2007/React-Api-Project">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=React-Api-Project&theme=gruvbox">
@@ -43,6 +45,11 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Pass-Gen-React&theme=gruvbox">
    </a>
    <p><b>Pass-Gen-React:</b> Password generator app in React with customizable options for secure passwords.</p>
+
+   <a href="https://github.com/Kalpan2007/NIKE_TAILWIND">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=NIKE_TAILWIND&theme=gruvbox">
+   </a>
+   <p><b>NIKE_TAILWIND:</b> A stylish Nike landing page built with React and Tailwind CSS.</p>
 </div>
 <br>
 
