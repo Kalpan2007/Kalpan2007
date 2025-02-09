@@ -29,6 +29,10 @@
 
 <h2 align="center">📕 Featured Repositories:</h2>
 <div align="center">
+   <a href="https://github.com/Kalpan2007/NIKE_TAILWIND">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=React-Api-Project&theme=gruvbox">
+   </a>
+   <p><b>Nike landing page to enhance skill in tailwind css</p>
    <a href="https://github.com/Kalpan2007/React-Api-Project">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=React-Api-Project&theme=gruvbox">
    </a>
