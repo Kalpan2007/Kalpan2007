@@ -50,6 +50,21 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=NIKE_TAILWIND&theme=gruvbox">
    </a>
    <p><b>NIKE_TAILWIND:</b> A stylish Nike landing page built with React and Tailwind CSS.</p>
+
+   <a href="https://github.com/Kalpan2007/jobfusion">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=jobfusion&theme=gruvbox">
+   </a>
+   <p><b>JobFusion:</b> A job search platform that helps users find trending jobs and apply easily.</p>
+
+   <a href="https://github.com/Kalpan2007/LINKDIN-CURD_TASK">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=LINKDIN-CURD_TASK&theme=gruvbox">
+   </a>
+   <p><b>LinkedIn CRUD Task:</b> A LinkedIn-inspired task management system with CRUD operations.</p>
+
+   <a href="https://github.com/Kalpan2007/Extention-To-Do">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Extention-To-Do&theme=gruvbox">
+   </a>
+   <p><b>Extension To-Do:</b> A Chrome extension for managing daily tasks efficiently.</p>
 </div>
 <br>
 
