@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">💯 Currently working on -> Web Development Projects</p>
-<p align="center">📚 Currently learning -> MERN Stack and AI</p>
+<p align="center">📚 Currently learning -> MERN Stack</p>
 <br>
 
 <h2 align="center">💻 My Tech Stack:</h2>
