@@ -1,90 +1,126 @@
-<h1 align="center">Kalpan</h1>
+<h1 align="center">Kalpan 🚀</h1>
+<h3 align="center">Full-Stack Developer | MERN | Problem Solver</h3>
+
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F260&size=28&center=true&vCenter=true&width=500&duration=2000&pause=1000&lines=Full-Stack+Developer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F260&size=28&center=true&vCenter=true&width=500&duration=2000&pause=1000&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Passionate+Problem+Solver" width="auto" height="35"/>
 </p>
 
-<h2 align="center">👨‍💻 About Me:</h2>
-<p align="justify">
-   I am a passionate programmer driven by curiosity and innovation. I specialize in building web applications and love exploring full-stack development. I enjoy solving complex problems and continuously upgrading my skills through challenging projects.  
-</p>
+---
 
-<p align="center">💯 Currently working on -> Web Development Projects</p>
-<p align="center">📚 Currently learning -> MERN Stack</p>
-<br>
+## 💻 My Tech Stack:
 
-<h2 align="center">💻 My Tech Stack:</h2>
-<table align="center">
+### 🎨 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### ⚙ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🔧 Tools & Others  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 🚀 Featured Projects:
+
+<div align="center">
+<table>
 <tr>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="60" height="60"/><br><b>C</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="60" height="60"/><br><b>C++</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="60" height="60"/><br><b>HTML</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="60" height="60"/><br><b>CSS</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="60" height="60"/><br><b>JavaScript</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="60" height="60"/><br><b>React JS</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="60" height="60"/><br><b>Node JS</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="60" height="60"/><br><b>MongoDB</b></td>
+<td width="45%">
+   <h3 align="center">📌 JobFusion</h3>
+   <p align="center">
+      <a href="https://github.com/Kalpan2007/jobfusion">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=jobfusion&theme=gruvbox">
+      </a>
+   </p>
+</td>
+<td width="45%">
+   <h3 align="center">📌 YouTube Clone</h3>
+   <p align="center">
+      <a href="https://github.com/Kalpan2007/yt-react">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=yt-react&theme=gruvbox">
+      </a>
+   </p>
 </td>
 </tr>
+
+<tr>
+<td width="45%">
+   <h3 align="center">📌 Nike Tailwind</h3>
+   <p align="center">
+      <a href="https://github.com/Kalpan2007/NIKE_TAILWIND">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=NIKE_TAILWIND&theme=gruvbox">
+      </a>
+   </p>
+</td>
+<td width="45%">
+   <h3 align="center">📌 React API Project</h3>
+   <p align="center">
+      <a href="https://github.com/Kalpan2007/React-Api-Project">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=React-Api-Project&theme=gruvbox">
+      </a>
+   </p>
+</td>
+</tr>
+
+<tr>
+<td width="45%">
+   <h3 align="center">📌 Password Generator</h3>
+   <p align="center">
+      <a href="https://github.com/Kalpan2007/Pass-Gen-React">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Pass-Gen-React&theme=gruvbox">
+      </a>
+   </p>
+</td>
+<td width="45%">
+   <h3 align="center">📌 Chrome Task Reminder Extention</h3>
+   <p align="center">
+      <a href="https://github.com/Kalpan2007/Extention-To-Do">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Extention-To-Do&theme=gruvbox">
+      </a>
+   </p>
+</td>
+
+</tr>
+
 </table>
-<br>
-
-<h2 align="center">📚 Featured Repositories:</h2>
-<div align="center">
-   <a href="https://github.com/Kalpan2007/React-Api-Project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=React-Api-Project&theme=gruvbox">
-   </a>
-   <p><b>React-Api-Project:</b> Fetches and displays data from public APIs, utilizing React hooks and dynamic rendering.</p>
-
-   <a href="https://github.com/Kalpan2007/yt-react">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=yt-react&theme=gruvbox">
-   </a>
-   <p><b>yt-react:</b> A YouTube clone in React with video search and responsive layout.</p>
-
-   <a href="https://github.com/Kalpan2007/Pass-Gen-React">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Pass-Gen-React&theme=gruvbox">
-   </a>
-   <p><b>Pass-Gen-React:</b> Password generator app in React with customizable options for secure passwords.</p>
-
-   <a href="https://github.com/Kalpan2007/NIKE_TAILWIND">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=NIKE_TAILWIND&theme=gruvbox">
-   </a>
-   <p><b>NIKE_TAILWIND:</b> A stylish Nike landing page built with React and Tailwind CSS.</p>
-
-   <a href="https://github.com/Kalpan2007/jobfusion">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=jobfusion&theme=gruvbox">
-   </a>
-   <p><b>JobFusion:</b> A job search platform that helps users find trending jobs and apply easily.</p>
-
-   <a href="https://github.com/Kalpan2007/LINKDIN-CURD_TASK">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=LINKDIN-CURD_TASK&theme=gruvbox">
-   </a>
-   <p><b>LinkedIn CRUD Task:</b> A LinkedIn-inspired task management system with CRUD operations.</p>
-
-   <a href="https://github.com/Kalpan2007/Extention-To-Do">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Extention-To-Do&theme=gruvbox">
-   </a>
-   <p><b>Extension To-Do:</b> A Chrome extension for managing daily tasks efficiently.</p>
 </div>
-<br>
 
-<h2 align="center">📊 My Github Stats:</h2>
+---
+
+## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalpan2007&theme=gruvbox&row=2&column=4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpan2007&theme=gruvbox&hide_border=true" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Kalpan2007&show_icons=true&theme=gruvbox&hide_border=true" />
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalpan2007&theme=gruvbox" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpan2007&layout=compact&theme=gruvbox" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalpan2007&theme=gruvbox&no-frame=true&margin-w=15" />
 </div>
-<br>
 
-<h2 align="center">🔗 Connect with Me:</h2>
+---
+
+## 🔗 Connect with Me:
 <p align="center">
    <a href="mailto:kalpankaneriya@gmail.com">
-      <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
-   &nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/3kz">
-      <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" height="50" width="50" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>
