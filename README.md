@@ -1,125 +1,307 @@
-<h1 align="center">Kalpan Kaneriya 👀</h1>>
+<div align="center">
 
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F260&size=28&center=true&vCenter=true&width=500&duration=2000&pause=1000&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;UI+UX+Designer" width="auto" height="35"/>
-</p>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=900&color=00EFFF&center=true&vCenter=true&width=600&repeat=false&lines=K%20A%20L%20P%20A%20N%20%5B3k%5D" 
+    alt="Typing Animation" 
+  />
+</h1>
 
----
+<!-- Animated Developer Illustration -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="coding animation"/>
 
-## 💻 My Tech Stack:
+## Building Digital Experiences 
 
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+**Full-Stack Developer** • **Problem Solver** • **Open Source Enthusiast**
 
-### ⚙ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<br/>
 
-### 🔧 Tools & Others  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!-- Social Badges with Modern Styling -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/3KZ)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalpankaneriya.netlify.app)
+<a href="https://drive.google.com/file/d/1ib4J2LaALWw0fE6HHHjj_A-s4oUu78W0/view?usp=sharing" download>
+  <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" />
+</a>
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@3kverse)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kalpan_2007)
+</div>
+
+<br/>
 
 ---
-
-## 🚀 Featured Projects:
 
 <div align="center">
+
+## ⚡ What I Craft
+
 <table>
 <tr>
-<td width="45%">
-   <h3 align="center">📌 JobFusion</h3>
-   <p align="center">
-      <a href="https://github.com/Kalpan2007/jobfusion">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=jobfusion&theme=gruvbox">
-      </a>
-   </p>
-</td>
-<td width="45%">
-   <h3 align="center">📌 YouTube Clone</h3>
-   <p align="center">
-      <a href="https://github.com/Kalpan2007/yt-react">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=yt-react&theme=gruvbox">
-      </a>
-   </p>
-</td>
-</tr>
 
-<tr>
-<td width="45%">
-   <h3 align="center">📌 Nike Tailwind</h3>
-   <p align="center">
-      <a href="https://github.com/Kalpan2007/NIKE_TAILWIND">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=NIKE_TAILWIND&theme=gruvbox">
-      </a>
-   </p>
+<!-- Frontend Magic -->
+<td align="center" width="25%">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="90" alt="frontend gif"/>
+  <br/><strong>Frontend Magic</strong>
+  <br/><sub>React • Next</sub>
 </td>
-<td width="45%">
-   <h3 align="center">📌 React API Project</h3>
-   <p align="center">
-      <a href="https://github.com/Kalpan2007/React-Api-Project">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=React-Api-Project&theme=gruvbox">
-      </a>
-   </p>
-</td>
-</tr>
 
-<tr>
-<td width="45%">
-   <h3 align="center">📌 Password Generator</h3>
-   <p align="center">
-      <a href="https://github.com/Kalpan2007/Pass-Gen-React">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Pass-Gen-React&theme=gruvbox">
-      </a>
-   </p>
+<!-- Backend Power -->
+<td align="center" width="25%">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="90" alt="node gif"/>
+  <br/><strong>Backend Power</strong>
+  <br/><sub>Node.js • Express</sub>
 </td>
-<td width="45%">
-   <h3 align="center">📌 Chrome Task Reminder Extention</h3>
-   <p align="center">
-      <a href="https://github.com/Kalpan2007/Extention-To-Do">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpan2007&repo=Extention-To-Do&theme=gruvbox">
-      </a>
-   </p>
+
+<!-- UI/UX Design -->
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="90"  alt="figma gif"/>
+  <br/><strong>UI/UX Design</strong>
+  <br/><sub>Figma • Prototyping</sub>
+</td>
+
+<!-- Data Layer -->
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="90" alt="database gif"/>
+  <br/><strong>Data Layer</strong>
+  <br/><sub>MongoDB • Redis • Supabase</sub>
 </td>
 
 </tr>
-
 </table>
+
 </div>
+
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats:
+## 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpan2007&theme=gruvbox&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalpan2007&show_icons=true&theme=gruvbox&hide_border=true" />
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalpan2007&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpan2007&layout=compact&theme=gruvbox" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalpan2007&theme=gruvbox&no-frame=true&margin-w=15" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📚 College Notes Exchange Platform
+<img src="https://img.shields.io/badge/Educational-A277FF?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
+**Full-stack collaborative learning platform**
+
+<p align="left">
+📌 Analytics Dashboard & Insights<br/>
+📌 Real-time Chat System<br/>
+📌 Notes Management & Sharing<br/>
+📌 Smart Study Tools<br/>
+📌 User Management System
+</p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<a href="https://github.com/Kalpan2007/college-notes">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://college-notes-demo.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💰 FinAIlytics
+<img src="https://img.shields.io/badge/AI_Powered-61DAFB?style=for-the-badge&logo=openai&logoColor=white"/>
+
+**Intelligent personal finance management**
+
+<p align="left">
+📌 AI Receipt Scanner (OCR)<br/>
+📌 Smart Analytics Dashboard<br/>
+📌 Monthly Financial Reports<br/>
+📌 Expense Categorization<br/>
+📌 Budget Tracking & Insights
+</p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+<a href="https://github.com/Kalpan2007/finailytics">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://finailytics.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💼 Expense Management System
+<img src="https://img.shields.io/badge/Enterprise-FF6B6B?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+**Enterprise-grade expense workflow**
+
+<p align="left">
+📌 Multi-role User Management<br/>
+📌 OCR Receipt Processing<br/>
+📌 Advanced Analytics Engine<br/>
+📌 Approval Workflow System<br/>
+📌 Real-time Reporting
+</p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<a href="https://github.com/Kalpan2007/expense-manager">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://expense-mgmt.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📊 OneFlow
+<img src="https://img.shields.io/badge/SaaS-00D9FF?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+**Plan-to-Bill project management**
+
+<p align="left">
+📌 Task Management System<br/>
+📌 Billing & Invoicing Engine<br/>
+📌 Project Analytics Dashboard<br/>
+📌 Time Tracking & Reports<br/>
+📌 Client Portal Access
+</p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<a href="https://github.com/Kalpan2007/oneflow">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://oneflow.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,js,ts,tailwind,html,css,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
+
+
+
+## Expanding Horizons 
+
+<img src="https://skillicons.dev/icons?i=nestjs,aws,docker,kubernetes,postgresql,python&theme=dark" alt="Learning"/>
+
+</div>
+
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📊 Detailed Stats
+
+<table>
+<tr>
+<td width="33%">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kalpan2007&theme=tokyonight&show_icons=true&hide_border=false&border_color=0E464F" 
+    width="100%" 
+  />
+</td>
+<td width="33%">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpan2007&layout=compact&theme=tokyonight&hide_border=false&border_color=0E464F" 
+    width="100%" 
+  />
+</td>
+<td width="33%">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpan2007&theme=radical&hide_border=false&background=0D1117&stroke=A277FF&ring=A277FF&fire=61DAFB&currStreakLabel=C9D1D9&sideLabels=C9D1D9" 
+    width="100%" 
+  />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Full-width Activity Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpan2007&theme=high-contrast&hide_border=false&bg_color=0D1117&color=A277FF&line=61DAFB&point=00D9FF&area=true&area_color=A277FF" 
+  width="100%" 
+/>
+
+</div>
+
+
+
+
+---
+<div align="center">
+
+## 💭 Philosophy
+
+*"Building digital experiences where performance meets elegance, and innovation solves real problems."*
+
 </div>
 
 ---
 
-## 🔗 Connect with Me:
-<p align="center">
-   <a href="mailto:kalpankaneriya@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-   <a href="https://www.linkedin.com/in/3kz">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-</p>
+
+
+
+
