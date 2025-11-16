@@ -8,7 +8,7 @@
 </h1>
 
 <!-- Animated Developer Illustration -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="coding animation"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="1000" alt="coding animation"/>
 
 ## Building Digital Experiences 
 
