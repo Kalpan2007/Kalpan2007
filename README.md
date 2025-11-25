@@ -19,7 +19,7 @@
 <!-- Social Badges with Modern Styling -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/3KZ)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalpankaneriya.netlify.app)
-<a href="https://drive.google.com/file/d/1ib4J2LaALWw0fE6HHHjj_A-s4oUu78W0/view?usp=sharing" download>
+<a href="https://drive.google.com/file/d/1n-VuI_apXRSqF1KR-XxWryoyRHIvji9B/view?usp=drive_link" download>
   <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" />
 </a>
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@3kverse)
