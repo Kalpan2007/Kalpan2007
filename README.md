@@ -60,9 +60,9 @@
 
 <!-- Data Layer -->
 <td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="90" alt="database gif"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="90" alt="database gif"/>
   <br/><strong>Data Layer</strong>
-  <br/><sub>MongoDB • Redis • Supabase</sub>
+  <br/><sub>PostgreSql • Redis • MongoDB</sub>
 </td>
 
 </tr>
