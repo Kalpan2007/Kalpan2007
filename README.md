@@ -8,7 +8,7 @@
 </h1>
 
 <!-- Animated Developer Illustration -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" alt="coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwNzUwMzYsIm5iZiI6MTc2NzA3NDczNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjMwVDA2MDUzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0YmU3YjBlNjZjNTJmN2I1NGE4YTMxMmRiYTUxOWI1MmNkYmU4NWVlNWU1OTIzMDljMjAzMTIxMDZmM2I3ZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4FymODVxPMfFdtjQ8My2-mJiv6tg1FVm4TYW7joMu-I" width="1000" alt="coding animation"/>
 
 ## Building Digital Experiences 
 
