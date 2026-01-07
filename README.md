@@ -252,31 +252,6 @@
 
 <div align="center">
 
-## 📊 Detailed Stats
-
-<table>
-<tr>
-<td width="33%">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kalpan2007&theme=tokyonight&show_icons=true&hide_border=false&border_color=0E464F" 
-    width="100%" 
-  />
-</td>
-<td width="33%">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpan2007&layout=compact&theme=tokyonight&hide_border=false&border_color=0E464F" 
-    width="100%" 
-  />
-</td>
-<td width="33%">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpan2007&theme=radical&hide_border=false&background=0D1117&stroke=A277FF&ring=A277FF&fire=61DAFB&currStreakLabel=C9D1D9&sideLabels=C9D1D9" 
-    width="100%" 
-  />
-</td>
-</tr>
-</table>
-
 <br/>
 
 <!-- Full-width Activity Graph -->
