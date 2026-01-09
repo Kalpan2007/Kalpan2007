@@ -235,13 +235,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,js,ts,tailwind,html,css,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,js,ts,tailwind,html,css,postgresql,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
 
 
 
 ## Expanding Horizons 
 
-<img src="https://skillicons.dev/icons?i=nestjs,aws,docker,kubernetes,postgresql,python&theme=dark" alt="Learning"/>
+<img src="https://skillicons.dev/icons?i=nestjs,aws,docker,kubernetes,python&theme=dark" alt="Learning"/>
 
 </div>
 
