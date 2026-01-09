@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" />
 </a>
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@3kverse)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kalpan_2007)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/3kz)
 </div>
 
 <br/>
