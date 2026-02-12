@@ -78,14 +78,14 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
-<td width="50%" valign="top">
 
+<td width="50%" valign="top">
 <div align="center">
 
 ### ⚖️ NyayaSankalan – AI Judicial Case Management
+
 <img src="https://img.shields.io/badge/GovTech-AI_Powered-FF9933?style=for-the-badge&logo=scale&logoColor=white"/>
 
 **AI-powered police → court digital case lifecycle system**
@@ -95,27 +95,28 @@
 📌 AI OCR + NER + Document Intelligence<br/>
 📌 Semantic Search + RAG Chatbot<br/>
 📌 Multi-role RBAC (Police → Judge)<br/>
-📌 26+ AI Features | 60+ APIs | 23 DB Tables
+📌 5+ AI Features | 60+ APIs | 23 DB Tables
 </p>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/AI-HuggingFace-FFD21E?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 <a href="https://github.com/yourusername/NyayaSankalan-CMS">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
 </td>
-<td width="50%" valign="top">
 
+
+<td width="50%" valign="top">
 <div align="center">
 
 ### 🏭 ECOFlow – Enterprise ECO Management Platform
+
 <img src="https://img.shields.io/badge/Enterprise-Workflow_System-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 **Manufacturing-grade Engineering Change Order automation**
@@ -128,27 +129,29 @@
 📌 Analytics + Change Tracking
 </p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 <a href="https://github.com/Kalpan2007/ECOFlow-Engineering-Change-Order-Version-Master-Data-System">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
 </td>
+
 </tr>
 
-<tr>
-<td width="50%" valign="top">
 
+<tr>
+
+<td width="50%" valign="top">
 <div align="center">
 
 ### 🧠 HabitEcho – Enterprise Behavioral Analytics SaaS
-<img src="https://img.shields.io/badge/SaaS-Production_Architecture-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SaaS-Production_Architecture-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 
 **High-performance habit tracking platform built like real SaaS**
 
@@ -160,26 +163,28 @@
 📌 Enterprise Security + Rate Limiting
 </p>
 
-![Next.js](https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
-![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 <a href="https://github.com/Kalpan2007/HabitEcho">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://habitecho.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </div>
-
 </td>
-<td width="50%" valign="top">
 
+
+<td width="50%" valign="top">
 <div align="center">
 
 ### 🚀 Space Pulse – Real-Time Space News Mobile App
+
 <img src="https://img.shields.io/badge/Mobile-Production_App-7C3AED?style=for-the-badge&logo=expo&logoColor=white"/>
 
 **Production-ready cross-platform mobile news ecosystem**
@@ -192,35 +197,35 @@
 📌 60 FPS Performance Optimized
 </p>
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![Zustand](https://img.shields.io/badge/Zustand-FF6B6B?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF6B6B?style=flat-square&logo=zustand&logoColor=white)
 
 <a href="https://github.com/Kalpan2007/Space_Pulse_Mobile_App_React_Native_Expo">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
 </td>
+
 </tr>
 </table>
-
 </div>
+
 
 
 ## 🛠️ Technology Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,js,ts,tailwind,html,css,postgresql,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,nestjs,aws,docker,js,ts,tailwind,html,css,postgresql,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
 
+---
 
+## 🌱 Expanding Horizons 
 
-## Expanding Horizons 
-
-<img src="https://skillicons.dev/icons?i=nestjs,aws,docker,kubernetes,python&theme=dark" alt="Learning"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,python,fastapi,spring&theme=dark" alt="Learning"/>
 
 </div>
 
