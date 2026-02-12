@@ -85,31 +85,27 @@
 
 <div align="center">
 
-### 📚 College Notes Exchange Platform
-<img src="https://img.shields.io/badge/Educational-A277FF?style=for-the-badge&logo=bookstack&logoColor=white"/>
+### ⚖️ NyayaSankalan – AI Judicial Case Management
+<img src="https://img.shields.io/badge/GovTech-AI_Powered-FF9933?style=for-the-badge&logo=scale&logoColor=white"/>
 
-**Full-stack collaborative learning platform**
+**AI-powered police → court digital case lifecycle system**
 
 <p align="left">
-📌 Analytics Dashboard & Insights<br/>
-📌 Real-time Chat System<br/>
-📌 Notes Management & Sharing<br/>
-📌 Smart Study Tools<br/>
-📌 User Management System
+📌 Digital FIR → Court Workflow Automation<br/>
+📌 AI OCR + NER + Document Intelligence<br/>
+📌 Semantic Search + RAG Chatbot<br/>
+📌 Multi-role RBAC (Police → Judge)<br/>
+📌 26+ AI Features | 60+ APIs | 23 DB Tables
 </p>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/AI-HuggingFace-FFD21E?style=flat-square)
 
-<a href="https://github.com/Kalpan2007/college-notes">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://college-notes-demo.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/yourusername/NyayaSankalan-CMS">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -119,31 +115,26 @@
 
 <div align="center">
 
-### 💰 FinAIlytics
-<img src="https://img.shields.io/badge/AI_Powered-61DAFB?style=for-the-badge&logo=openai&logoColor=white"/>
+### 🏭 ECOFlow – Enterprise ECO Management Platform
+<img src="https://img.shields.io/badge/Enterprise-Workflow_System-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-**Intelligent personal finance management**
+**Manufacturing-grade Engineering Change Order automation**
 
 <p align="left">
-📌 AI Receipt Scanner (OCR)<br/>
-📌 Smart Analytics Dashboard<br/>
-📌 Monthly Financial Reports<br/>
-📌 Expense Categorization<br/>
-📌 Budget Tracking & Insights
+📌 Multi-stage Approval Workflow Engine<br/>
+📌 BOM Version Control + Comparison<br/>
+📌 Real-time Collaboration (SSE)<br/>
+📌 Enterprise RBAC + Audit Logs<br/>
+📌 Analytics + Change Tracking
 </p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql)
 
-<a href="https://github.com/Kalpan2007/finailytics">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://finailytics.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/Kalpan2007/ECOFlow-Engineering-Change-Order-Version-Master-Data-System">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -156,31 +147,29 @@
 
 <div align="center">
 
-### 💼 Expense Management System
-<img src="https://img.shields.io/badge/Enterprise-FF6B6B?style=for-the-badge&logo=salesforce&logoColor=white"/>
+### 🧠 HabitEcho – Enterprise Behavioral Analytics SaaS
+<img src="https://img.shields.io/badge/SaaS-Production_Architecture-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-**Enterprise-grade expense workflow**
+**High-performance habit tracking platform built like real SaaS**
 
 <p align="left">
-📌 Multi-role User Management<br/>
-📌 OCR Receipt Processing<br/>
-📌 Advanced Analytics Engine<br/>
-📌 Approval Workflow System<br/>
-📌 Real-time Reporting
+📌 Real-time Sync + SSR Hydration<br/>
+📌 Dual Token Auth + CSRF Protection<br/>
+📌 Advanced Analytics + Heatmaps<br/>
+📌 Optimistic UI + Query Batching<br/>
+📌 Enterprise Security + Rate Limiting
 </p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql)
 
-<a href="https://github.com/Kalpan2007/expense-manager">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Kalpan2007/HabitEcho">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://expense-mgmt.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://habitecho.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
@@ -190,31 +179,26 @@
 
 <div align="center">
 
-### 📊 OneFlow
-<img src="https://img.shields.io/badge/SaaS-00D9FF?style=for-the-badge&logo=stripe&logoColor=white"/>
+### 🚀 Space Pulse – Real-Time Space News Mobile App
+<img src="https://img.shields.io/badge/Mobile-Production_App-7C3AED?style=for-the-badge&logo=expo&logoColor=white"/>
 
-**Plan-to-Bill project management**
+**Production-ready cross-platform mobile news ecosystem**
 
 <p align="left">
-📌 Task Management System<br/>
-📌 Billing & Invoicing Engine<br/>
-📌 Project Analytics Dashboard<br/>
-📌 Time Tracking & Reports<br/>
-📌 Client Portal Access
+📌 Real-Time Space News (50+ Sources)<br/>
+📌 Offline-First Architecture<br/>
+📌 Glassmorphism Premium UI<br/>
+📌 Smart Search + Filters<br/>
+📌 60 FPS Performance Optimized
 </p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Zustand](https://img.shields.io/badge/Zustand-FF6B6B?style=flat-square)
 
-<a href="https://github.com/Kalpan2007/oneflow">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://oneflow.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/Kalpan2007/Space_Pulse_Mobile_App_React_Native_Expo">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -225,11 +209,6 @@
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 ## 🛠️ Technology Arsenal
 
