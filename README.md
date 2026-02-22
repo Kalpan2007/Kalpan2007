@@ -30,10 +30,11 @@
  <img 
   src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest"
   alt="LeetCode Stats"
-  width="100%"
-  style="max-width: 900px";
+  width="70%"
+style="max-width: 680px;"
 />
 </a>
+<br/>
 
 <a href="https://github.com/Kalpan2007/dsa-2026">
   <img src="https://img.shields.io/badge/Daily%20DSA%20Repo-View%20Progress-181717?style=for-the-badge&logo=github&logoColor=white"/>
