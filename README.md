@@ -31,18 +31,19 @@
   src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest"
   alt="LeetCode Stats"
   width="70%"
-style="max-width: 680px;"
+  style="max-width: 680px;"
 />
 </a>
+
 <br/>
 
-<a href="https://github.com/Kalpan2007/dsa-2026">
+<a href="https://github.com/Kalpan2007/dsa-2026" style="margin-right: 16px;">
   <img src="https://img.shields.io/badge/Daily%20DSA%20Repo-View%20Progress-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Focus-Problem%20Solving-00EFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Goal-Top%201%25-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Habit-Daily%20Consistency-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Focus-Problem%20Solving-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Goal-Top%201%25-FB7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Habit-Daily%20Consistency-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 </div>
 
