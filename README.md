@@ -116,6 +116,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
 
+<a href="https://github.com/Kalpan2007/-NyayaSankalan---CMS">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
 </div>
 </td>
 
@@ -141,12 +146,84 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
+<a href="https://github.com/Kalpan2007/-NyayaSankalan---CMS">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+<div align="center">
+
+### 🧠 HabitEcho – Enterprise Behavioral Analytics SaaS
+
+<img src="https://img.shields.io/badge/SaaS-Production_Architecture-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
+
+**High-performance habit tracking platform built like real SaaS**
+
+<p align="left">
+📌 Real-time Sync + SSR Hydration<br/>
+📌 Dual Token Auth + CSRF Protection<br/>
+📌 Advanced Analytics + Heatmaps<br/>
+📌 Optimistic UI + Query Batching<br/>
+📌 Enterprise Security + Rate Limiting
+</p>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+
+<a href="https://github.com/Kalpan2007/ECOFlow-Engineering-Change-Order-Version-Master-Data-System">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://habitecho.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</div>
+</td>
+
+<td width="50%" valign="top">
+<div align="center">
+
+### 🚀 Space Pulse – Real-Time Space News Mobile App
+
+<img src="https://img.shields.io/badge/Mobile-Production_App-7C3AED?style=for-the-badge&logo=expo&logoColor=white"/>
+
+**Production-ready cross-platform mobile news ecosystem**
+
+<p align="left">
+📌 Real-Time Space News (50+ Sources)<br/>
+📌 Offline-First Architecture<br/>
+📌 Glassmorphism Premium UI<br/>
+📌 Smart Search + Filters<br/>
+📌 60 FPS Performance Optimized
+</p>
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square\&logo=expo\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF6B6B?style=flat-square\&logo=zustand\&logoColor=white)
+
+<a href="https://github.com/Kalpan2007/Space_Pulse_Mobile_App_React_Native_Expo">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 </td>
 
 </tr>
 </table>
 </div>
+>
+
 
 ---
 
