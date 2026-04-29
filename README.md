@@ -1,13 +1,6 @@
 <div align="center">
 
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=900&color=00EFFF&center=true&vCenter=true&width=600&repeat=false&lines=K%20A%20L%20P%20A%20N%20%5B3k%5D" 
-    alt="Typing Animation" 
-  />
-</h1>
-
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="1000" alt="coding animation"/>
+<img src="https://res.cloudinary.com/dxdrzit6x/image/upload/v1777467302/ChatGPT_Image_Apr_23_2026_03_38_21_PM_qwnewe.png" width="1000" alt="coding animation"/>
 
 ## **GDGC Hackathon Winner** • **Full-Stack Developer** • **Problem Solver**
 
